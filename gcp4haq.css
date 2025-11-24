@@ -1,0 +1,43 @@
+﻿/*
+ * The Typekit service used to deliver this font or fonts for use on websites
+ * is provided by Adobe and is subject to these Terms of Use
+ * http://www.adobe.com/products/eulas/tou_typekit. For font license
+ * information, see the list below.
+ *
+ * miller-banner:
+ *   - http://typekit.com/eulas/000000000000000077577cc6
+ *   - http://typekit.com/eulas/000000000000000077577cc5
+ *   - http://typekit.com/eulas/0000000000000000775766c9
+ *   - http://typekit.com/eulas/00000000000000007757670c
+ *
+ * © 2009-2025 Adobe Systems Incorporated. All Rights Reserved.
+ */
+/*{"last_published":"2024-11-13 11:04:18 UTC"}*/
+
+@import url("p.css");
+
+@font-face {
+font-family:"miller-banner";
+src:url("af/ec6010/000000000000000077577cc6/30/l") format("woff2"),url("af/ec6010/000000000000000077577cc6/30/d") format("woff"),url("af/ec6010/000000000000000077577cc6/30/a") format("opentype");
+font-display:auto;font-style:normal;font-weight:400;font-stretch:normal;
+}
+
+@font-face {
+font-family:"miller-banner";
+src:url("af/5fe21c/000000000000000077577cc5/30/l") format("woff2"),url("af/5fe21c/000000000000000077577cc5/30/d") format("woff"),url("af/5fe21c/000000000000000077577cc5/30/a") format("opentype");
+font-display:auto;font-style:italic;font-weight:400;font-stretch:normal;
+}
+
+@font-face {
+font-family:"miller-banner";
+src:url("af/4b9239/0000000000000000775766c9/30/l") format("woff2"),url("af/4b9239/0000000000000000775766c9/30/d") format("woff"),url("af/4b9239/0000000000000000775766c9/30/a") format("opentype");
+font-display:auto;font-style:normal;font-weight:300;font-stretch:normal;
+}
+
+@font-face {
+font-family:"miller-banner";
+src:url("af/7ac3ee/00000000000000007757670c/30/l") format("woff2"),url("af/7ac3ee/00000000000000007757670c/30/d") format("woff"),url("af/7ac3ee/00000000000000007757670c/30/a") format("opentype");
+font-display:auto;font-style:normal;font-weight:700;font-stretch:normal;
+}
+
+.tk-miller-banner { font-family: "miller-banner",serif; }
